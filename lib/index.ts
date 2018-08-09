@@ -1,0 +1,1 @@
+export { GoogleMapsGeneric } from './GoogleMapsGeneric'
