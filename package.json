@@ -1,6 +1,6 @@
 {
   "name": "@fabrix/generics-google-maps",
-  "version": "1.1.0-alpha.1",
+  "version": "1.1.0",
   "description": "Generic: Google Maps adapter for Spool-generics",
   "homepage": "https://fabrix.app",
   "author": {
